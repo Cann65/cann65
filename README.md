@@ -23,7 +23,7 @@ I enjoy working with cloud technologies, automating deployment processes, and im
 ### 🌍 About Me
 - Enthusiastic about **Cloud Security** and **DevSecOps** methodologies  
 - Interested in **remote collaboration opportunities**  
-- Always learning and exploring emerging technologies in cloud and security  
+- Always learning and exploring emerging technologies in Devops, cloud and security  
 
 ---
 
