@@ -1,6 +1,6 @@
 # Hi, I'm Can 👋
 
-I'm a **Junior Cloud & Security Engineer** with a completed vocational training
+I'm a **Cloud & Security Engineer** with a completed vocational training
 as an **IT Specialist for Application Development (Germany, IHK)**.
 
 My focus is on building and analyzing **secure cloud infrastructure**
