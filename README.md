@@ -1,7 +1,6 @@
 # Hi, I'm Can 👋
 
-I'm a **Cloud & Security Engineer** with a completed vocational training
-as an **IT Specialist for Application Development (Germany, IHK)**.
+I am an Upcoming Junior Cloud & Security Engineer and final-year apprentice as an IT Specialist for Application Development (IHK).
 
 My focus is on building and analyzing **secure cloud infrastructure**
 using **AWS, Terraform, and Python**, with an emphasis on
