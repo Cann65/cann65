@@ -1,35 +1,26 @@
 # Hi, I'm Can 👋
 
-I am an Upcoming Junior Cloud & Security Engineer and final-year apprentice as an IT Specialist for Application Development (IHK).
+I'm a Cloud Engineer working on production reliability, cloud infrastructure, and security across Azure and AWS.
 
-My focus is on building and analyzing **secure cloud infrastructure**
-using **AWS, Terraform, and Python**, with an emphasis on
-clear access control, reproducible setups, and security-by-default architectures.
+## Professional experience
 
-I work on hands-on projects involving:
+- I operate and improve business-critical production systems. When an incident crosses service boundaries, I correlate logs, metrics, and alerts, trace system dependencies and interfaces, and use the findings to identify the root cause and drive follow-up fixes.
+- I work on Azure and AWS infrastructure, CI/CD pipelines, release management, and infrastructure as code. I use Python and PowerShell to automate recurring operational checks and make changes easier to verify and repeat.
+- I apply cloud security and DevSecOps practices to infrastructure and delivery workflows, including IAM, least-privilege access, and security checks in CI/CD.
 
-- AWS IAM (roles, policies, least-privilege access)
-- Infrastructure as Code with Terraform (modular, auditable configurations)
-- Cloud security audits and misconfiguration detection
-- CI/CD pipelines with basic security controls
+## Personal engineering projects
 
----
+I design, integrate, and evaluate AI architectures in personal projects. I work with LLM workflows, agents, retrieval-augmented generation, and tool orchestration. I use reproducible scenarios to test retrieval quality, access boundaries, and how workflows behave when a dependency fails.
 
-### 📜 Certifications
-- AWS Certified Cloud Practitioner  
-- Python Certified Associate Programmer (PCAP)  
-- Professional Scrum Master™ (PSM I)  
-- Oracle Certified Foundations Associate, Java (OCFA)  
+- [AWS Account Audit](https://github.com/Cann65/aws-account-audit) — read-only AWS security hygiene checks with machine-readable reports and CI exit codes.
+- [Secure Static Website on AWS](https://github.com/Cann65/aws-secure-static-website-terraform) — Terraform infrastructure for a private S3 origin served through CloudFront with Origin Access Control.
+- [Databricks Platform Guardrails](https://github.com/Cann65/databricks-platform-guardrails-aws) — infrastructure and audit tooling for workspace controls in a Databricks environment on AWS.
 
----
+## Certifications
 
-### 🌍 Focus Areas
-- Cloud Security & DevSecOps fundamentals  
-- Secure AWS architectures and identity management  
-- Automation and repeatable infrastructure  
-- Remote-friendly engineering environments  
+- AWS Certified Cloud Practitioner
+- Python Certified Associate Programmer (PCAP)
+- Professional Scrum Master™ (PSM I)
+- Oracle Certified Foundations Associate, Java (OCFA)
 
----
-
-📫 **Contact:** canbyildiz@outlook.de  
-🔗 **LinkedIn:** https://www.linkedin.com/in/canyil
+[LinkedIn](https://www.linkedin.com/in/canyil) · [Email](mailto:canbyildiz@outlook.de)
