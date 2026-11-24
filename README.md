@@ -15,6 +15,7 @@ I design, integrate, and evaluate AI architectures in personal projects. I work 
 - [AWS Account Audit](https://github.com/Cann65/aws-account-audit) — read-only AWS security hygiene checks with machine-readable reports and CI exit codes.
 - [Secure Static Website on AWS](https://github.com/Cann65/aws-secure-static-website-terraform) — Terraform infrastructure for a private S3 origin served through CloudFront with Origin Access Control.
 - [Databricks Platform Guardrails](https://github.com/Cann65/databricks-platform-guardrails-aws) — infrastructure and audit tooling for workspace controls in a Databricks environment on AWS.
+- [CompanyBrain](https://github.com/Cann65/companybrain) — a local PDF ingestion and passage retrieval prototype using sentence embeddings and FAISS.
 
 ## Certifications
 
