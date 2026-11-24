@@ -12,6 +12,7 @@ I'm a Cloud Engineer working on production reliability, cloud infrastructure, an
 
 I design, integrate, and evaluate AI architectures in personal projects. I work with LLM workflows, agents, retrieval-augmented generation, and tool orchestration. I use reproducible scenarios to test retrieval quality, access boundaries, and how workflows behave when a dependency fails.
 
+- [Release Approval Agent](https://github.com/Cann65/release-approval-agent) — a staging release gate that binds approvals to an immutable image digest and reconciles uncertain deployments by operation ID.
 - [AWS Account Audit](https://github.com/Cann65/aws-account-audit) — read-only AWS security hygiene checks with machine-readable reports and CI exit codes.
 - [Secure Static Website on AWS](https://github.com/Cann65/aws-secure-static-website-terraform) — Terraform infrastructure for a private S3 origin served through CloudFront with Origin Access Control.
 - [Databricks Platform Guardrails](https://github.com/Cann65/databricks-platform-guardrails-aws) — infrastructure and audit tooling for workspace controls in a Databricks environment on AWS.
